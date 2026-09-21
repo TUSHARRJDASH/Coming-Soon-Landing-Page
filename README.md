@@ -5,6 +5,12 @@ A modern and responsive **Coming Soon Landing Page** built using **HTML5** and *
 🔗 **Live Demo:** https://tusharrjdash.github.io/Coming-Soon-Landing-Page/
 
 ---
+## 📸 Preview
+
+> <img width="1917" height="925" alt="Screenshot 2026-09-21 161902" src="https://github.com/user-attachments/assets/e17e31fc-e834-449f-bc6e-9a947eea62d7" />
+
+
+---
 
 ## ✨ Features
 
